@@ -1,4 +1,4 @@
-package be.intecbrussel.employees;
+package be.intecbrussel.classicmodels.model;
 
 import javax.persistence.*;
 

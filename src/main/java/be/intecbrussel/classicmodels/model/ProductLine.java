@@ -1,4 +1,4 @@
-package be.intecbrussel.productlines;
+package be.intecbrussel.classicmodels.model;
 
 import javax.persistence.*;
 

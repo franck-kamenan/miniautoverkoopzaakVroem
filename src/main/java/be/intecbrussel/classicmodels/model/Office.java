@@ -1,4 +1,4 @@
-package be.intecbrussel.offices;
+package be.intecbrussel.classicmodels.model;
 
 import javax.persistence.*;
 

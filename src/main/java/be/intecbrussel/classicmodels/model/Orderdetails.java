@@ -1,4 +1,4 @@
-package be.intecbrussel.orderdetails;
+package be.intecbrussel.classicmodels.model;
 
 import javax.persistence.*;
 

@@ -7,3 +7,13 @@ e
 5src/main/java/be/intecbrussel/customers/Customer.java,9\1\91de9201a0bf4ef23be17076f883ccac6fa42bd1
 e
 5src/main/java/be/intecbrussel/employees/Employee.java,f\3\f313e5399acfe21762fc1efdb5ff1c0a112e33d7
+a
+1src/main/java/be/intecbrussel/offices/Office.java,7\f\7fc7afec3205d76f61a703acb50887903af1f293
+l
+<src/main/java/be/intecbrussel/orderdetails/Orderdetails.java,f\b\fbae4e9de057d394643ceddccba4512f411da3cf
+_
+/src/main/java/be/intecbrussel/orders/Order.java,6\e\6e75cb950d1e6c5eae9a201138b1aa4946fa8d8f
+c
+3src/main/java/be/intecbrussel/payments/Payment.java,7\1\71025313fd9b77289092fc90b6e0eef43e4e458e
+c
+3src/main/java/be/intecbrussel/products/Product.java,d\5\d5490ab8f2b9b5c272949fc8bf4015252686120f

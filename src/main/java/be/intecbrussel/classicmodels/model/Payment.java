@@ -1,4 +1,4 @@
-package be.intecbrussel.payments;
+package be.intecbrussel.classicmodels.model;
 
 import javax.persistence.*;
 import java.time.LocalDate;
