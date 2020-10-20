@@ -6,7 +6,6 @@ import javax.persistence.*;
 @Table(name = "employees")
 public class Employee {
 
-
     @Id
     private int employeeNumber;
     private String lastName;
